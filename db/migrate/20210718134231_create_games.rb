@@ -8,4 +8,5 @@ class CreateGames < ActiveRecord::Migration[6.1]
       t.timestamps # generates created_at and updated_at columns
     end
   end
+  
 end
